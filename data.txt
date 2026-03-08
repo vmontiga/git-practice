@@ -1,3 +1,4 @@
 Name: Vincent
 Age: 31
 Favorite Colour: Blue
+Favorite animal: Dog
